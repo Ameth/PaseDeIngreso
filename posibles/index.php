@@ -1,0 +1,1 @@
+<?php header("Location:../encuesta_posibles.php");?>
